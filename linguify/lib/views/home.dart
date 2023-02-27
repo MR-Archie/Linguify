@@ -54,7 +54,9 @@ class _HomeState extends State<Home> {
                       child: const Text(
                         "Choose from Gallery",
                         style: TextStyle(
-                            fontWeight: FontWeight.bold, fontSize: 24),
+                          fontWeight: FontWeight.bold,
+                          fontSize: 24,
+                        ),
                       ),
                     ),
                   ),
